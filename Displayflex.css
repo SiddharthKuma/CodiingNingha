@@ -1,0 +1,30 @@
+#container {
+    height: 75vh;
+    width: 50vh;
+    background-color: cyan;
+    display: flex;
+    flex-direction: column;
+}
+
+#container div {
+    /* height: 200px;
+    width: 200px; */
+}
+
+#div1 {
+    background-color: aquamarine;
+    height: 100px;
+    order: 1;
+}
+
+#div2 {
+    background-color: azure;
+}
+
+#div3 {
+    background-color: sandybrown;
+}
+
+#div4 {
+    background-color: turquoise;
+}
